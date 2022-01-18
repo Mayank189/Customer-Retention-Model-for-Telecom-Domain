@@ -9,7 +9,10 @@ POC helps in an area of Customer Rentention and created as strategy which type o
 Our POC will help in 3 different area which is ATP.
 
 Audience:- who should be targeted using the model.
+
+
 Treatment:- identify the area where the offers can be made.
+
 Prioritization:- Determine an order of priority for smooth execution.
 
 Baseline Event Rate:
